@@ -1,16 +1,18 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
+* [Initial page](initial-page.md)
 
 ## DevOps
 
-* [AWS](aws/README.md)
-  * [Authentication](aws/authentication.md)
-  * [Scalability](aws/scalability.md)
-* [Git](git.md)
+* [AWS](devops/aws/README.md)
+  * [Authentication](devops/aws/authentication.md)
+  * [Scalability](devops/aws/scalability.md)
+* [Git](devops/git.md)
 * [Terraform](devops/terraform.md)
-* [AWS, Docker, Terraform End to End](aws-docker-terraform-end-to-end.md)
-* [Docker](docker.md)
-* [Jenkins](jenkins.md)
-* [Kubernetes](kubernetes.md)
-* [Blue - Green deployment](blue-green-deployment.md)
+* [AWS, Docker, Terraform End to End](devops/aws-docker-terraform-end-to-end.md)
+* [Docker](devops/docker.md)
+* [Jenkins](devops/jenkins.md)
+* [Kubernetes](devops/kubernetes.md)
+* [Blue - Green deployment](devops/blue-green-deployment.md)
+
