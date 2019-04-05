@@ -9,13 +9,24 @@
 | Which permissions are granted to root user? | Everything |
 | Which permissions are granted to a new user? \(besides root user\) | Nothing |
 
+## IAM Best Practices
 
+![](../../../../.gitbook/assets/image.png)
 
+* Multi-Factor Authentication
+* Create an Admin IAM User and Group
+* Use groups to assign permissions
+* IAM password policy
 
+## IAM Users and Policies
 
 {% tabs %}
 {% tab title="First Tab" %}
+User and Policy
 
+Group and Policy
+
+Role
 {% endtab %}
 
 {% tab title="AWS Console" %}
