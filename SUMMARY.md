@@ -28,6 +28,7 @@
   * [Development Environment](devops/docker/development-environment.md)
   * [Standard Stack](devops/docker/standard-stack.md)
   * [Tools](devops/docker/tools.md)
+  * [Docker Testing](devops/docker/docker-testing.md)
 * [Git](devops/git.md)
 * [Jenkins](devops/jenkins.md)
 * [Terraform](devops/terraform/README.md)
