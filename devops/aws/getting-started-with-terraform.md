@@ -1,2 +1,2 @@
-# Getting Started with Terraform
+# Getting Started with AWS Terraform
 
