@@ -18,7 +18,7 @@
 * **shows you when and who authored** 
 * **shows you commit message**
 
-![](../.gitbook/assets/gitlog.png)
+![](../../.gitbook/assets/gitlog.png)
 
 ### git alias
 
