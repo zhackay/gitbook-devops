@@ -32,6 +32,7 @@
   * [Untitled](devops/aws/untitled.md)
   * [Scalability](devops/aws/scalability.md)
 * [Linux](devops/linux/README.md)
+  * [Bash](devops/linux/bash.md)
   * [Linux Basics](devops/linux/linux-basics.md)
 * [Docker](devops/docker/README.md)
   * [Training](devops/docker/training/README.md)
